@@ -14,3 +14,6 @@ Click [here](https://idatavisualizationlab.github.io/B/congnostics/layout.html) 
 I use non-parametric Mann-Kendall test:
 ![trend_formula](Jan_19/trend_formula.png)
 where
+![sign_formula](Jan_19/Sign_formula.png)
+The picture below shows how to calculate the trend measure.
+![trend_explain](Jan_19/trend_explain.png)
