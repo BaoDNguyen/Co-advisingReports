@@ -6,8 +6,7 @@ Click [here](https://idatavisualizationlab.github.io/B/congnostics/layout.html) 
 ### Content
 1. Quantities for diagnosing features/partterns of time series.
 2. Use cases of the proposed quantities.
-3. Drawback of the proposed quantites.
-4. Future works
+3. Future works
 
 ### 1. Quantities for diagnosing features/partterns of time series.
 1.1. Trend
@@ -40,5 +39,9 @@ We use box-plot rule for detecting outliers of values of time series and the fir
 The feagure below shows the summary of all quantities.
 ![summary](Jan_19/example_measures.png)
 
-
-
+### 2. Use cases of the proposed quantities.
+Data set: US employment data.
+Dimension: 53 states with 34 economic sectors.
+Number of time series: 1727 time series.
+Values: number of employees in thousands.
+Size: monthly records over 20 years from 1999 to 2019 (
