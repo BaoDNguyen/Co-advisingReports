@@ -44,4 +44,14 @@ Data set: US employment data.
 Dimension: 53 states with 34 economic sectors.
 Number of time series: 1727 time series.
 Values: number of employees in thousands.
-Size: monthly records over 20 years from 1999 to 2019 (
+Size: monthly records over 21 years from 1999 to 2019 (252 time steps).
+
+Cycles in some economic sectors:
+![cycles](Jan_19/cycles.png)
+
+Impact of hurricane Irma and Maria on Virgin Islands in 2018.
+![virgin](Jan_19/virginIslands.png)
+
+Irregular increases in Federal Government employment in May 2000 and May 2010.
+![FederalGovernment](Jan_19/seasonal_AO.png)
+
