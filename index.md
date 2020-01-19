@@ -13,19 +13,11 @@ Click [here](https://idatavisualizationlab.github.io/B/congnostics/layout.html) 
 1.1. Trend
 
 I use non-parametric Mann-Kendall test:
-![trend_formula](Jan_19/trend_formula.png)
-where
-![sign_formula](Jan_19/Sign_formula.png)
-The picture below shows how to calculate the trend measure.
-![trend_explain](Jan_19/trend_explain.png)
+![trend](Jan_19/trend.png)
 
 1.2. Periodicity
 
-The periodogram element is squared of the Fourier coefficient of the series:
-![periodogram](Jan_19/DFT_formula.png)
-Some examples of periodogram are given in the following picture.
-![periodogram_examples](Jan_19/periodogram_example.png)
-We score the periodicity measure of a time series as the sum of all peaks in the periodogram, and divide it by sum of all elements to get standardized value. The multiplier, 2, ensures a simple sine or cosine functions get value of 1.
+The periodogram element is squared of the Fourier coefficient of the series. We score the periodicity measure of a time series as the sum of all peaks in the periodogram, and divide it by sum of all elements to get standardized value.
 ![periodicity](Jan_19/periodicity.png)
 
 1.3. Auto-correlation
@@ -49,5 +41,10 @@ The first difference:
 ![first_diff](Jan_19/firstDiff.png)
 Mean and Standard deviaiton of the first difference
 ![first_diff](Jan_19/Net_mean_sd.png)
+
+1.7. Net outlying
+
+We use box-plot rule for the first differences of time series.
+![net_outlying](Jan_19/Net_outlying.png)
 
 
