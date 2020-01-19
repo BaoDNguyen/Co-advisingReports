@@ -30,9 +30,6 @@ The periodogram element is squared of the Fourier coefficient of the series. We 
 
 1.6. Mean and Standard deviation of the first difference
 
-The first difference:
-![first_diff](Jan_19/firstDiff.png)
-Mean and Standard deviaiton of the first difference
 ![first_diff](Jan_19/Net_mean_sd.png)
 
 1.7. Net outlying
