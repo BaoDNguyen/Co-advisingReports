@@ -32,7 +32,7 @@ The periodogram element is squared of the Fourier coefficient of the series. We 
 
 ![first_diff](Jan_19/Net_mean_sd.png)
 
-1.7. Net outlying
+1.7. Outlying and Net outlying
 
 We use box-plot rule for detecting outliers of values of time series and the first difference.
 ![outlying](Jan_19/outliers.png)
