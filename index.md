@@ -23,3 +23,7 @@ The picture below shows how to calculate the trend measure.
 
 Two common approaches for detecting periodicity time series are periodogram and auto-correlation. The latter is difficult to automatically determine periods [20], so we use the former for this score. The periodogram element is squared of the Fourier coefficient of the series [3, 20]:
 ![periodogram](Jan_19/DFT_formula.png)
+Some examples of periodogram are given in the following picture.
+![periodogram_examples](Jan_19/periodogram_example.png)
+We score the periodicity measure of a time series as the sum of all peaks in the periodogram, and divide it by sum of all elements to get standardized value. The multiplier, 2, ensures a simple sine or cosine functions get value of 1.
+![periodicity](Jan_19/periodicity.png)
