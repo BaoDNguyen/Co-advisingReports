@@ -37,4 +37,8 @@ The periodogram element is squared of the Fourier coefficient of the series. We 
 We use box-plot rule for detecting outliers of values of time series and the first difference.
 ![outlying](Jan_19/outliers.png)
 
+The feagure below shows the summary of all quantities.
+![summary](Jan_19/example_measures.png)
+
+
 
