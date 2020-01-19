@@ -5,6 +5,11 @@ Click [here](https://idatavisualizationlab.github.io/B/congnostics/layout.html) 
 
 ### Content
 1. Quantities for diagnosing features/partterns of time series.
-2. Clustering and Dimension reduction techniques.
-3. The prototype.
-4. Use case.
+2. Use cases of the proposed quantities.
+3. Drawback of the proposed quantites.
+4. Future works
+
+### 1. Quantities for diagnosing features/partterns of time series.
+1.1. Trend
+I use non-parametric Mann-Kendall test:
+![trend_formula](Jan_19/trend_formula.png)
