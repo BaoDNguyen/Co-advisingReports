@@ -22,18 +22,12 @@ The periodogram element is squared of the Fourier coefficient of the series. We 
 
 1.3. Auto-correlation
 
-The first lag auto-correlation is usually utilized to detect non-randomness time series [14]. We use squared of Pear-son coefficient for this score because we do not aim to dis-tinguish negative and positive correlations. This score is low if the series is random.
+The first lag auto-correlation is usually utilized to detect non-randomness time series [14]. We use squared of Pearson coefficient for this score because we do not aim to dis-tinguish negative and positive correlations. This score is low if the series is random.
 ![auto-correlation](Jan_19/auto_correlation.png)
 
 1.4. Mean and Standard deviation
 
 ![auto-correlation](Jan_19/mean_sd.png)
-
-1.5. Outliers
-
-We use box-plot rule to find outliers of time points. The box-plot size is 4 times the interquartile range.
-![outlying](Jan_19/Outlying.png)
-where AD is abosulte deviation from the median of time series.
 
 1.6. Mean and Standard deviation of the first difference
 
@@ -44,7 +38,7 @@ Mean and Standard deviaiton of the first difference
 
 1.7. Net outlying
 
-We use box-plot rule for the first differences of time series.
-![net_outlying](Jan_19/Net_outlying.png)
+We use box-plot rule for detecting outliers of values of time series and the first difference.
+![outlying](Jan_19/outliers.png)
 
 
