@@ -37,3 +37,11 @@ The first lag auto-correlation is usually utilized to detectnon-randomness time 
 
 Because these measures are computed for normalized data, it is obvious to notice that the mean quantity have values between 0 and 1. In term of standard deviation, if the series is independent and identically random, its mean tends to be half of the unit, and thus, the absolute deviation from the mean of each observation is approximately not greater than a half. This leads to the fact that the range of standard deviation is from zero to around a half, so we multiply it by two to get a normalized score. If this quantity exceeds 1, we force it to be 1.
 ![auto-correlation](Jan_19/mean_sd.png)
+
+1.5. Outliers
+
+We use box-plot rule to find outliers of time points. The box-plot size is 4 times the interquartile range.
+![outlying](Jan_19/Outlying.png)
+where AD is abosulte deviation from the median of time series.
+
+
