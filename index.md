@@ -13,3 +13,4 @@ Click [here](https://idatavisualizationlab.github.io/B/congnostics/layout.html) 
 1.1. Trend
 I use non-parametric Mann-Kendall test:
 ![trend_formula](Jan_19/trend_formula.png)
+where
