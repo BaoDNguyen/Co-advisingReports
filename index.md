@@ -55,7 +55,7 @@ Impact of hurricane Irma and Maria on Virgin Islands in 2018.
 Irregular increases in Federal Government employment in May 2000 and May 2010.
 ![FederalGovernment](Jan_19/seasonal_AO.png)
 
-3. Future works
+### 3. Future works
 
 - Implement dimension reduction techniques to feature space.
 - Improve the interaction of the prototype.
