@@ -41,9 +41,13 @@ The feagure below shows the summary of all quantities.
 
 ### 2. Use cases of the proposed quantities.
 Data set: US employment data.
+
 Dimension: 53 states with 34 economic sectors.
+
 Number of time series: 1727 time series.
+
 Values: number of employees in thousands.
+
 Size: monthly records over 21 years from 1999 to 2019 (252 time steps).
 
 Cycles in some economic sectors:
