@@ -4,11 +4,11 @@ Click [here](https://idatavisualizationlab.github.io/B/congnostics/layout.html) 
 ## Monday, January 20th, 2020
 
 ### Content
-1. Quantities for diagnosing features/partterns of time series.
+1. Quantities for diagnosing features/patterns of time series.
 2. Use cases of the proposed quantities.
 3. Future works
 
-### 1. Quantities for diagnosing features/partterns of time series.
+### 1. Quantities for diagnosing features/patterns of time series.
 1.1. Trend
 
 I use non-parametric Mann-Kendall test:
