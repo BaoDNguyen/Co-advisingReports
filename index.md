@@ -1,6 +1,17 @@
 ## Welcome to Representation Page
 Click [here](https://idatavisualizationlab.github.io/B/congnostics/layout.html) to go to the prototype
 
+## Mon, January 27th, 2020
+1. Use case for UMAP on US employment data.
+
+Cluster found!
+![Jan27_federal](Jan_27/Federal_Government.png)
+
+Search in instances!
+![Jan27_virgin_islands](Jan_27/Virgin_Islands.png)
+
+![Jan27_newyork](Jan_27/NewYork.png)
+
 ## Monday, January 20th, 2020
 
 ### Content
